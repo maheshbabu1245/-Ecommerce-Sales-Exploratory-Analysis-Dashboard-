@@ -98,7 +98,10 @@ Example:
 - Integrate live database connection
 - Add advanced DAX measures
 - Improve dashboard responsiveness
+- 
+## Dashboard Preview
 
+![Dashboard](dashboard.png)
 ---
 
 ## 👨‍💻 Author
